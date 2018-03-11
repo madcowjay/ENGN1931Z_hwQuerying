@@ -1,0 +1,5 @@
+State abbreviation correctly parsed. (+1 points)
+Legislative district correctly identified. (+3 points)
+State Senator correctly identified. (+3 points)
+Most recent sponsored bill was not correctly returned. Please check your OpenStates.org API call using the Bills method and try again.
+Partial Credit: Your grade of 7/10 points has been logged into the system, but you are welcome to try again.
